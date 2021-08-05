@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![plot](https://static.wikia.nocookie.net/studio-ghibli/images/9/98/Sootballs.png/revision/latest/scale-to-width-down/640?cb=20181015011815)
+
 <!--
 **madam-adam/madam-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
